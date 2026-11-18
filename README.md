@@ -1,2 +1,2 @@
 # 1st-semester-programming-lab
-lab task
+lab task 1
